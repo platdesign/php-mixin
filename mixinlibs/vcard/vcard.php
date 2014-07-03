@@ -1,0 +1,1 @@
+<?php mixin::registerDir(dirname(__FILE__).'/mixins', 'vcard'); ?>
